@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1045372457071",
+    "firebase_url": "https://geolocator-8a000.firebaseio.com",
+    "project_id": "geolocator-8a000",
+    "storage_bucket": "geolocator-8a000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045372457071:android:5e788629980ee091",
+        "android_client_info": {
+          "package_name": "com.tarento.geolocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045372457071-dcltf67vs476q38ueehmu0fh80ijous4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tarento.geolocator",
+            "certificate_hash": "4dd4f9eee000c5881c0de89127d9cb1ff8e7f42a"
+          }
+        },
+        {
+          "client_id": "1045372457071-avgmg6egu96vn6ijfcrcc4htfo9uvvl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaBUb7FvmLYDCD-f432erCLWQu_R_xNdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045372457071-avgmg6egu96vn6ijfcrcc4htfo9uvvl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
